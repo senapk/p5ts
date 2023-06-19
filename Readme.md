@@ -14,7 +14,7 @@ Só estou adaptando para o uso em sala de aula.
 - dar os comando abaixo
 
 ```bash
-git remote add origin git@github.com:senapk/p5ts.git
+git clone git@github.com:senapk/p5ts.git
 cd p5ts
 npm install
 ```
