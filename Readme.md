@@ -15,9 +15,12 @@ Só estou adaptando para o uso em sala de aula.
 
 ```bash
 git remote add origin git@github.com:senapk/p5ts.git
-
+cd p5ts
+npm install
 ```
+
 - abrir o vscode na pasta do projeto
+  - abrir folder
 - abrir o terminal do vscode
-- npm install
+  - terminal -> new terminal
 - npm start
