@@ -8,7 +8,7 @@ Só estou adaptando para o uso em sala de aula.
 
 - instalar [git for windows](https://gitforwindows.org/)
 - instalar [nodejs](https://nodejs.org/en/download)
-- instalar [vscode](https://code.visualstudio.com/download
+- instalar [vscode](https://code.visualstudio.com/download)
   - configurar autosave
 
 ## Instalando no linux
