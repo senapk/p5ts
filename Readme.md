@@ -13,7 +13,7 @@ Só estou adaptando para o uso em sala de aula.
 
 ## Instalando no linux
 
-- `sudo apt install git nodejs`
+- `sudo apt install git nodejs npm`
 - instalar [vscode](https://code.visualstudio.com/download)
   - configurar autosave
 
