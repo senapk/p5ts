@@ -17,6 +17,7 @@ Só estou adaptando para o uso em sala de aula.
 git clone git@github.com:senapk/p5ts.git
 cd p5ts
 npm install
+code .
 ```
 
 - abrir o vscode na pasta do projeto
