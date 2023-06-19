@@ -24,7 +24,7 @@ Só estou adaptando para o uso em sala de aula.
 - dar os comando abaixo, uma linha de cada vez
 
 ```bash
-git clone git@github.com:senapk/p5ts.git
+git clone https://github.com/senapk/p5ts
 cd p5ts
 npm install
 code .
