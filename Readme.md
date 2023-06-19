@@ -21,7 +21,7 @@ Só estou adaptando para o uso em sala de aula.
 
 - navegar até a pasta onde deseja criar o projeto
 - clicar com o botão direito e selecionar `git bash here` ou `open in terminal`
-- dar os comando abaixo
+- dar os comando abaixo, uma linha de cada vez
 
 ```bash
 git clone git@github.com:senapk/p5ts.git
