@@ -4,13 +4,23 @@ O projeto original foi criado por https://github.com/Gaweph/p5-typescript-starte
 
 Só estou adaptando para o uso em sala de aula.
 
-## Como usar
+## Instalando no windows
 
-- instalar o git (git for windows)
-- instalar node
-- instalar vscode (configurar autosave)
+- instalar [git for windows](https://gitforwindows.org/)
+- instalar [nodejs](https://nodejs.org/en/download)
+- instalar [vscode](https://code.visualstudio.com/download
+  - configurar autosave
+
+## Instalando no linux
+
+- `sudo apt install git nodejs`
+- instalar [vscode](https://code.visualstudio.com/download)
+  - configurar autosave
+
+## Configurando o projeto
+
 - navegar até a pasta onde deseja criar o projeto
-- clicar com o botão direito e selecionar `git bash here`
+- clicar com o botão direito e selecionar `git bash here` ou `open in terminal`
 - dar os comando abaixo
 
 ```bash
