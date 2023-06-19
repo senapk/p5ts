@@ -15,7 +15,7 @@ Só estou adaptando para o uso em sala de aula.
 
 - `sudo apt install git nodejs npm`
 - instalar [vscode](https://code.visualstudio.com/download)
-  - configurar autosave
+  - configurar autosaved
 
 ## Configurando o projeto
 
