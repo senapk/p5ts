@@ -19,5 +19,6 @@
         "index.html": true,
 
     },
-    "explorerExclude.backup": {}
+    "explorerExclude.backup": {},
+    "cSpell.enabled": false
 }
