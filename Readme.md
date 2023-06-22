@@ -4,6 +4,10 @@ O projeto original foi criado por https://github.com/Gaweph/p5-typescript-starte
 
 Só estou adaptando para o uso em sala de aula.
 
+## Vídeo de instalação
+
+[Vídeo](https://youtu.be/B657Ygb4Kzw)
+
 ## Instalando no windows
 
 - instalar [git for windows](https://gitforwindows.org/)
