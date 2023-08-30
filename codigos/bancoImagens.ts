@@ -1,12 +1,16 @@
+
 class Sprite {
-    constructor(x, y, img) {
+    x: number;
+    y: number;
+    img: p5.Image;
+    constructor(x: number, y: number, img: p5.Image) {
         this.x = x;
         this.y = y;
         this.img = img;
     }
 }
-let banco_imagens = [];
-let sprites_tela = [];
+let banco_imagens: p5.Image[] = [];
+let sprites_tela: Sprite[] = [];
 function setup() {
     createCanvas(400, 600);
     for (let i = 0; i < 10; i++) {
@@ -21,10 +25,11 @@ function preload() {
     banco_imagens.push(loadImage("assets/img2.jpg"));
     banco_imagens.push(loadImage("assets/img3.jpg"));
 }
+
 function draw() {
     background(0);
     for (let sprite of sprites_tela) {
         image(sprite.img, sprite.x, sprite.y, 50, 50);
     }
 }
-//# sourceMappingURL=build.js.map
+
